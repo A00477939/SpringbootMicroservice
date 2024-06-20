@@ -1,4 +1,4 @@
-package com.microservice.customer;
+package com.microservice.fraud.customer;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.microservice.customer;
+package com.microservice.fraud.customer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
