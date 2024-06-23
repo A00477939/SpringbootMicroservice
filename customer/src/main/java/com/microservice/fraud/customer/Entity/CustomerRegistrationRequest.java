@@ -1,4 +1,4 @@
-package com.microservice.fraud.customer;
+package com.microservice.fraud.customer.Entity;
 
 public record CustomerRegistrationRequest(
         String firstName,

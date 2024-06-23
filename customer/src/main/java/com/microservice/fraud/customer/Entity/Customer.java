@@ -1,4 +1,4 @@
-package com.microservice.fraud.customer;
+package com.microservice.fraud.customer.Entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -12,7 +12,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Customer {
-
     @Id
     @SequenceGenerator(
             name = "customer_id_sequence",
